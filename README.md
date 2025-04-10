@@ -1,5 +1,4 @@
 # MLKQuote Website 🌍✊🏾
-
 This is a static website dedicated to celebrating the timeless words of **Dr. Martin Luther King Jr.** It features powerful quotes, a green energy theme, and images that inspire hope, justice, and progress — all hosted using **Amazon S3** with a cloud computing vibe.
 
 ---
@@ -22,14 +21,4 @@ This is a static website dedicated to celebrating the timeless words of **Dr. Ma
 
 ---
 
-## 📁 Project Structure
 
-```bash
-MLKQuoteWebsite/
-├── index.html        # Main HTML page with quotes & images
-├── style.css         # Styling for green theme and layout
-├── images/           # MLK-themed images used on site
-│   ├── IMG_2530.jpeg
-│   ├── IMG_2531.jpeg
-│   └── IMG_2533.jpeg
-└── README.md         # Project description (this file)
